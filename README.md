@@ -1,2 +1,2 @@
-Meu primeiro sistema no GIT0
+Meu primeiro sistema no GIT
 Atualizando README
